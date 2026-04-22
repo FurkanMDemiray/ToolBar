@@ -29,6 +29,15 @@ R&D project focused on **working with maps in React Native (Expo)** and comparin
   - **My opinion**:
     - Simplest and most reliable when I only need “open directions / view location”.
     - Not a full in-app map UI, but it’s great UX for navigation and reduces in-app complexity.
+   
+
+## ⚠️ Environment & Compatibility
+
+> [!IMPORTANT]
+> The libraries are designed for **Development Environments**. 
+> They do **not** support **Expo Go**. You must use a **Development Build** or a **Bare Workflow** to run these examples.
+
+---
 
 ## Getting started
 
@@ -40,3 +49,23 @@ npx expo start
 ## Notes
 
 - This repo is intentionally R&D-focused; expect experiments and comparisons over time.
+
+
+## 📺 Implementation Previews
+
+| Expo Map | React Map | Linking |
+| :---: | :---: |  :---: |
+| <video src="https://github.com/user-attachments/assets/2a36246b-57ee-4c49-9de4-6dce0e5825b3" controls></video>  | <video src="https://github.com/user-attachments/assets/89a93d4f-3e55-4a91-9ef4-6444a668d47b" controls></video> | <video src="https://github.com/user-attachments/assets/bd51b4bd-2266-4ee4-a040-6d4116714e27" controls></video> |
+
+---
+
+
+
+
+
+
+
+
+
+
+
