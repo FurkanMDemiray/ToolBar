@@ -11,6 +11,10 @@ export default function RootLayout() {
         <NativeTabs.Trigger.Label>React Map</NativeTabs.Trigger.Label>
         <NativeTabs.Trigger.Icon md="map_pin_heart" />
       </NativeTabs.Trigger>
+      <NativeTabs.Trigger name="nativeMapApp">
+        <NativeTabs.Trigger.Label>Native Map</NativeTabs.Trigger.Label>
+        <NativeTabs.Trigger.Icon md="map_pin_review" />
+      </NativeTabs.Trigger>
     </NativeTabs>
   );
 }
